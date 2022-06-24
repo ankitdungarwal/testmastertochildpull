@@ -6,4 +6,8 @@ public class Main {
     public void mainBranchMethod(){
         System.out.println("this is going to be the second thing I write in Main branch after the commit in dev branch");
     }
+
+    public void letsChangeInMainAgain(){
+        System.out.println("trying to pull details using rebase now");
+    }
 }
